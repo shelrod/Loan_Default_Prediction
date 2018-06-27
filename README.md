@@ -1,2 +1,2 @@
 # Loan Default Prediction
-Loan Default Prediction Final Report 
+Refer to the Loan Default Prediction Final Report pdf to read about the project 
